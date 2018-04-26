@@ -1,0 +1,10 @@
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplicationFormula1.deps.json
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplicationFormula1.runtimeconfig.json
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplicationFormula1.runtimeconfig.dev.json
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplicationFormula1.dll
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplicationFormula1.pdb
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplicationFormula1.csproj.CoreCompileInputs.cache
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplicationFormula1.AssemblyInfoInputs.cache
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplicationFormula1.AssemblyInfo.cs
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplicationFormula1.dll
+C:\Users\Noel\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplicationFormula1.pdb
